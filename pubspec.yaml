@@ -1,9 +1,0 @@
-
-name: calculator
-description: A simple Dart calculator project.
-
-environment:
-  sdk: '>=3.0.0 <4.0.0'
-
-dev_dependencies:
-  test: ^1.26.2
